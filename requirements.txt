@@ -1,0 +1,21 @@
+# Core Dependencies
+streamlit>=1.28.0
+ultralytics>=8.0.0
+opencv-python-headless>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# PyTorch (CPU version - smaller for deployment)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# ONNX Runtime for optimized model
+onnxruntime>=1.16.0
+onnx>=1.15.0
+
+# PDF Generation
+fpdf2>=2.7.0
+
+# Optional but recommended
+matplotlib>=3.7.0  # For visualizations
+pandas>=2.0.0     # For data handling
