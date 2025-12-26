@@ -20,7 +20,7 @@ CODE/
 │   └── best_int8.onnx        # Optimized INT8 model ⭐
 │
 ├── assets/                    # Test images
-│   └── test_image_pump.jpg
+│   └── test_image_pump.jpg    # Few more
 │
 ├── results/                   # Detection results (auto-generated)
 │   ├── baseline_result.json
