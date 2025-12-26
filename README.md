@@ -238,7 +238,7 @@ streamlit run app.py --server.headless true
 
 ## 👥 Contributors
 
-- **Your Name** - AI Engineer
+- Team Detectifiers
 
 ## 📄 License
 
