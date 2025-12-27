@@ -3,7 +3,7 @@
 An edge-optimized AI defect detection system using YOLOv8 with INT8 quantization for deployment on resource-constrained hardware like Raspberry Pi.
 
 **Team:** Detectifiers
-- Alizay Ahmed (SE-23078)
+- Alizay Ahmed (SE-23078) - Team Lead
 - Anmol Kumari (SE-23028)
 - Hafsah Khalil (CF-23045)
 - Khadeeja Ahmed (CF-23008)
