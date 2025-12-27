@@ -8,6 +8,8 @@ An edge-optimized AI defect detection system using YOLOv8 with INT8 quantization
 - Hafsah Khalil (CF-23045)
 - Khadeeja Ahmed (CF-23008)
 
+## 🔗 Live Project: https://ai-defect-detector.streamlit.app/
+
 ## 🎯 Project Overview
 
 This project demonstrates production-ready edge optimization for AI defect detection:
