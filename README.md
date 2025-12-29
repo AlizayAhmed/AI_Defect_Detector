@@ -4,9 +4,6 @@ An edge-optimized AI defect detection system using YOLOv8 with INT8 quantization
 
 **Team:** Detectifiers
 - Alizay Ahmed (SE-23078) - Team Lead
-- Anmol Kumari (SE-23028)
-- Hafsah Khalil (CF-23045)
-- Khadeeja Ahmed (CF-23008)
 
 ## 🔗 Live Project: https://ai-defect-detector.streamlit.app/
 
